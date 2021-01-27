@@ -1,2 +1,2 @@
-# finaltask.github.io
+# finaltask
 Created with CodeSandbox
